@@ -1,0 +1,8 @@
+/home/rover/ros2_ws/src/mocap4ros2_qualisys/qualisys_cpp_sdk/build/CMakeFiles/qualisys_cpp_sdk.dir
+/home/rover/ros2_ws/src/mocap4ros2_qualisys/qualisys_cpp_sdk/build/CMakeFiles/RigidBodyStreaming.dir
+/home/rover/ros2_ws/src/mocap4ros2_qualisys/qualisys_cpp_sdk/build/CMakeFiles/edit_cache.dir
+/home/rover/ros2_ws/src/mocap4ros2_qualisys/qualisys_cpp_sdk/build/CMakeFiles/rebuild_cache.dir
+/home/rover/ros2_ws/src/mocap4ros2_qualisys/qualisys_cpp_sdk/build/CMakeFiles/list_install_components.dir
+/home/rover/ros2_ws/src/mocap4ros2_qualisys/qualisys_cpp_sdk/build/CMakeFiles/install.dir
+/home/rover/ros2_ws/src/mocap4ros2_qualisys/qualisys_cpp_sdk/build/CMakeFiles/install/local.dir
+/home/rover/ros2_ws/src/mocap4ros2_qualisys/qualisys_cpp_sdk/build/CMakeFiles/install/strip.dir
